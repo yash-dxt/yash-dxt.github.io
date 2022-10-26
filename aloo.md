@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Aloo
-subtitle: Just who the hell you think I am?
+subtitle: Be kinder.
 permalink: /aloo
 ---

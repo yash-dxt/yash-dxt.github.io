@@ -4,8 +4,6 @@ description: >
   This is the portfolio site of Yash Dixit.
   I'll be writing about the projects I build, random tech & life. 
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yashandstuff.com" # the base hostname & protocol for your site
 
 author:
   fullname: Yash Dixit

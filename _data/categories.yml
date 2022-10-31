@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: tutorials
+  name: Tutorials
 
 - slug: tools
   name: Tools
 
-- slug: productivity
-  name: Productivity
+- slug: aws
+  name: AWS
